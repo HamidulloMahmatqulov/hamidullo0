@@ -1,0 +1,26 @@
+.a2 {
+  background-color: #0f6674;
+  height: 320px; }
+  .a2 .div {
+    margin-top: 30px; }
+    .a2 .div a {
+      border: 1px solid white;
+      color: white;
+      text-align: center;
+      height: 50px; }
+    .a2 .div a:hover {
+      color: white;
+      border: none;
+      border-bottom: 1px solid white; }
+
+.a3 form a {
+  border: 1px solid forestgreen;
+  border-radius: 2px;
+  text-decoration: none;
+  color: white;
+  background-color: forestgreen;
+  height: 100px;
+  width: 200px;
+  margin-top: 10px; }
+
+/*# sourceMappingURL=style.css.map */
